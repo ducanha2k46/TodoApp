@@ -7,13 +7,13 @@
     
 }
 html {
-    background-color: #98B5FF;
+    background-color: #4F74FF;
 
 }
 .display {
     width: 312px;
     height: 637.2px;
-    background-color: #344FA1 ;
+    background-color: #3D47AF ;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -36,7 +36,7 @@ html {
 }
 
 .material-icons {
-    color: #8BA8F3;
+    color: #7D80AA;
     margin: 0px 3px 5px 3px;
 }
 
@@ -58,7 +58,7 @@ h1 {
     font-size: 10px;
     margin-top: 5px;
     margin-bottom: 5px;
-    color : #8BA8F3;
+    color : #7D80AA;
 }
 
 .box-tasks {
@@ -69,9 +69,9 @@ h1 {
     margin: 5px 5px;
     padding : 5px 10px;
     box-sizing: border-box;
-    background-color: #031956;
-    
+    background-color: #0A155A;
 }
+
 
 .type-tasks p {
     font-weight: 1000;
@@ -85,7 +85,7 @@ h1 {
     margin: 5px 5px;
     padding: 10px 10px;
     box-sizing: border-box;
-    background-color: #031956;
+    background-color: #0A155A;
     display: flex;
     align-items: center;
 }
